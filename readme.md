@@ -1,7 +1,7 @@
-## Ryggsäcken
-## Steg 1
+# Ryggsäcken
 
-Ryggsäcken
+### Steg 1
+
 I den här övningen ska du precis som i ovan övning hantera inmatning och utmatning. Programmet är en ryggsäck som styrs via menyn. 
 Du ska kunna lägga till föremål i ryggsäcken, tex ett äpple. Du ska sedan kunna välja att skriva ut alla föremål. Observera att du inte 
 behöver jobba med array än (det kommer vi in på senare) utan det finns en simpel lösning till att lägga till fler föremål. Du ska även 
@@ -19,7 +19,7 @@ följande:
 •	Kodblock, tänk på att det är viktigt var du deklarerar dina variabler
 
 
-## Steg 2
+### Steg 2
 
 Ryggsäcken – fortsättning
 Du ska nu ersätta en del funktioner i den tidigare övningen Ryggsäcken som du gjorde tidigare. 
